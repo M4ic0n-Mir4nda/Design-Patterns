@@ -1,0 +1,3 @@
+O Singleton é um padrão de projeto criacional que permite a você garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância.
+
+Neste caso feito foi provado que foi feito o import de src para um unico elemento que é o singleton.py que tem como variavel "message"

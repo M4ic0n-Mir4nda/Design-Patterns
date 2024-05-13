@@ -1,0 +1,5 @@
+O Decorator é um padrão de projeto estrutural que permite que você acople novos comportamentos para objetos ao colocá-los dentro de invólucros(embrulhos) de objetos que contém os comportamentos.
+
+Definição: Apartir de um certo algorito vc consiga chegar e atribuir outros valores, elementos e comportamentos para uma classe seja num metodo ou outro tipo de representancia
+
+Onde pode ser aplicado: Autenticação de usuario, encriptamento de senha e coisas do tipo
