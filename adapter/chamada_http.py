@@ -1,3 +1,3 @@
-from framework_qualquer2 import post_http
+from framework_qualquer import post_http
 
 post_http()
